@@ -1,10 +1,19 @@
 # feelingo
 
-Command Line Interface for duckduckgo's "I'm Feeling Lucky" search option.
+Command Line Interface for "I'm Feeling Lucky" search feature.
 
-[Google “Feeling Lucky” url causing redirect notice](https://superuser.com/questions/1496083/google-feeling-lucky-url-causing-redirect-notice)
+current support search engine is `https://duckduckgo.com/`
 
-## install 
+Notice: [Google “Feeling Lucky” url causing redirect notice](https://superuser.com/questions/1496083/google-feeling-lucky-url-causing-redirect-notice)
+
+## install
 
 > go get  -u github.com/jiahut/feelingo
+
+
+## usage
+
+> feelingo ruby
+
+> feeling ruby on rails
 
