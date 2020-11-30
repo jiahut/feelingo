@@ -1,4 +1,4 @@
-module feelingo
+module github.com/jiahut/feelingo
 
 go 1.14
 
